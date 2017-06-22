@@ -8,8 +8,9 @@ import java.util.Date;
  */
 public class CalculateHBaseRowKey {
     public static void main(String[] args) {
-        System.out.println(getHbaseRowkey2("277833707", 50));
-        getDateTime(1487122853080l);
+        System.out.println(getHbaseRowkey2("299086566", 50));
+        getDateTime(1495885660000l);
+//        System.out.println(System.currentTimeMillis());
     }
 
 
